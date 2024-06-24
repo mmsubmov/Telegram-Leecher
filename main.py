@@ -9,11 +9,11 @@
 
 # @markdown <br>
 
-API_ID = 29455412  # @param {type: "integer"}
-API_HASH = "6af64bba8605a85b7b0950ec1553c2bd"  # @param {type: "string"}
-BOT_TOKEN = "7284410847:AAEstYkVFnWsDHKUCYOZ1byVsoaA3DmT7pQ"  # @param {type: "string"}
-USER_ID = 2051314154  # @param {type: "integer"}
-DUMP_ID = -1001501083107  # @param {type: "integer"}
+API_ID = 0  # @param {type: "integer"}
+API_HASH = "0"  # @param {type: "string"}
+BOT_TOKEN = "0"  # @param {type: "string"}
+USER_ID = 0  # @param {type: "integer"}
+DUMP_ID = 0  # @param {type: "integer"}
 
 import subprocess, time, json, shutil, os
 from IPython.display import clear_output
