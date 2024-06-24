@@ -1,4 +1,4 @@
-# copyright 2023 © Xron Trix | https://github.com/Xrontrix10
+# copyright 2023 © Xron Trix | https://github.com/mmsubmov
 
 
 from time import time
@@ -13,16 +13,16 @@ class BOT:
         stream_upload = "Media"
         convert_video = "Yes"
         convert_quality = "High"
-        caption = "Monospace"
+        caption = "Regular"
         prefix = ""
         suffix = ""
-        thumbnail = False
+        thumbnail Regula
 
     class Options:
         stream_upload = True
         convert_video = True
         convert_quality = True
-        caption = "code"
+        caption="Regular"
         video_out = "mp4"
         custom_name = ""
         zip_pswd = ""
@@ -70,7 +70,7 @@ class BotTimes:
 
 class Paths:
     WORK_PATH = "/content/Telegram-Leecher/BOT_WORK"
-    THMB_PATH = "/content/Telegram-Leecher/colab_leecher/Thumbnail.jpg"
+    THMB_PATH = "https://telegra.ph/file/e16478737519930242d56.jpg"
     VIDEO_FRAME = f"{WORK_PATH}/video_frame.jpg"
     HERO_IMAGE = f"{WORK_PATH}/Hero.jpg"
     DEFAULT_HERO =  "/content/Telegram-Leecher/custom_thmb.jpg"
