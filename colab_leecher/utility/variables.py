@@ -16,7 +16,7 @@ class BOT:
         caption = "Regular"
         prefix = "\nJoin ➜ @MeowLinksBot"
         suffix = ""
-        thumbnail Regula
+        thumbnail = True
 
     class Options:
         stream_upload = True
