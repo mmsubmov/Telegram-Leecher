@@ -37,7 +37,7 @@ class BOT:
         started = False
         task_going = False
         prefix = False
-        suffix = False
+        suffix = True
 
 
 class YTDL:
