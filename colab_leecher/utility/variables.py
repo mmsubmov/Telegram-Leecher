@@ -14,8 +14,7 @@ class BOT:
         convert_video = "Yes"
         convert_quality = "High"
         caption = "Regular"
-        prefix = "
-        Join ➜ @MeowLinksBot"
+        prefix = "\nJoin ➜ @MeowLinksBot"
         suffix = ""
         thumbnail Regula
 
