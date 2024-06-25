@@ -73,7 +73,7 @@ class Paths:
     THMB_PATH = "https://telegra.ph/file/e16478737519930242d56.jpg"
     VIDEO_FRAME = f"{WORK_PATH}/video_frame.jpg"
     HERO_IMAGE = f"{WORK_PATH}/Hero.jpg"
-    DEFAULT_HERO =  "/content/Telegram-Leecher/custom_thmb.jpg"
+    DEFAULT_HERO =  "https://telegra.ph/file/e16478737519930242d56.jpg"
     MOUNTED_DRIVE = "/content/drive"
     down_path = f"{WORK_PATH}/Downloads"
     temp_dirleech_path = f"{WORK_PATH}/dir_leech_temp"
