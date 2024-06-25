@@ -14,7 +14,8 @@ class BOT:
         convert_video = "Yes"
         convert_quality = "High"
         caption = "Regular"
-        prefix = ""
+        prefix = "
+        Join ➜ @MeowLinksBot"
         suffix = ""
         thumbnail Regula
 
@@ -22,7 +23,7 @@ class BOT:
         stream_upload = True
         convert_video = True
         convert_quality = True
-        caption="Regular"
+        caption=""
         video_out = "mp4"
         custom_name = ""
         zip_pswd = ""
