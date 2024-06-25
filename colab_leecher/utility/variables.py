@@ -15,8 +15,8 @@ class BOT:
         convert_quality = "High"
         caption = "Regular"
         prefix = ""
-        suffix = "\n Join ➜ @MeowLinksBot"
-        thumbnail = False
+        suffix = "\n\n Join ➜ @MeowLinksBot"
+        thumbnail = True
 
     class Options:
         stream_upload = True
